@@ -27,7 +27,7 @@ List of content
   * Full Data Load
   * Data BackFilling
   * Data Catalog
-  * Functional Data Engineering
+  * [Functional Data Engineering](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
   * Batch Processing Engines
   * WorkFlow Management
   * Lambda Architecture
@@ -39,11 +39,14 @@ List of content
   * Data Reprocessing
   * Dead Lettering
   * Choreography pattern
-  * Kappa Architecture
+  * [Kappa Architecture](https://milinda.pathirage.org/kappa-architecture.com/)
   * Streaming Processing Engines
 * [Infraestructure]
   * Containerization
   * Containerization Orchestration
   * IaC
   * Automated Operations
+* [Software Engineering]
+  * [System Design](https://github.com/donnemartin/system-design-primer)
+  * Algorithms
   
